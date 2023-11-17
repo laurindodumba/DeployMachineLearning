@@ -1,0 +1,4 @@
+1 - Criar uma conexão no Jupyter Notebook que vai conectar com a API 
+2 - Trazer o modelo gerado no Colab 
+3 - Criar um arquivo py. que irá servir como aplicação
+4 - Criar um arquivo Docker e configurar este arquivo com os paramêtros do Docker para construir a imagem.
